@@ -96,6 +96,7 @@
     <Content Include="Javascript\common\JavaScript\realsense.js" />
     <Content Include="Javascript\common\JavaScript\realsenseinfo.js" />
     <Content Include="Javascript\JavaScript\DF_FaceTracking.html" />
+    <Content Include="Library\libpxcclr.cs.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
