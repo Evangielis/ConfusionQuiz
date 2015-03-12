@@ -8,3 +8,13 @@ C:\Users\Lee\Documents\Visual Studio 2013\Projects\ConfusionQuiz\ConfusionQuiz\b
 C:\Users\Lee\Documents\Visual Studio 2013\Projects\ConfusionQuiz\ConfusionQuiz\bin\Debug\ConfusionQuiz.pdb
 C:\Users\Lee\Documents\Visual Studio 2013\Projects\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.exe
 C:\Users\Lee\Documents\Visual Studio 2013\Projects\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.pdb
+C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\bin\Debug\ConfusionQuiz.exe.config
+C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.exe
+C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.pdb
+C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\bin\Debug\ConfusionQuiz.exe
+C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\bin\Debug\ConfusionQuiz.pdb
+C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.csprojResolveAssemblyReference.cache
+C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.MainForm.resources
+C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.Properties.Resources.resources
+C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.QuestionForm.resources
+C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.csproj.GenerateResource.Cache

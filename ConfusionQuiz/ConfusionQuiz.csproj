@@ -90,6 +90,13 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Javascript\common\JavaScript\jquery-1.11.0.min.js" />
+    <Content Include="Javascript\common\JavaScript\promise-1.0.0.min.js" />
+    <Content Include="Javascript\common\JavaScript\realsense.js" />
+    <Content Include="Javascript\common\JavaScript\realsenseinfo.js" />
+    <Content Include="Javascript\JavaScript\DF_FaceTracking.html" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
