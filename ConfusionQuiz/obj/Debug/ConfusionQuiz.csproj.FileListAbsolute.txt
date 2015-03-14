@@ -18,3 +18,4 @@ C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.Ma
 C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.Properties.Resources.resources
 C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.QuestionForm.resources
 C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\obj\Debug\ConfusionQuiz.csproj.GenerateResource.Cache
+C:\Users\h2r\Source\Repos\ConfusionQuiz\ConfusionQuiz\bin\Debug\libpxcclr.cs.dll

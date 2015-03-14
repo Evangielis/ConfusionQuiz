@@ -1,0 +1,8 @@
+C:\Users\h2r\Source\Repos\ConfusionQuiz\RealSenseTest\bin\Debug\RealSenseTest.exe.config
+C:\Users\h2r\Source\Repos\ConfusionQuiz\RealSenseTest\bin\Debug\RealSenseTest.exe
+C:\Users\h2r\Source\Repos\ConfusionQuiz\RealSenseTest\bin\Debug\RealSenseTest.pdb
+C:\Users\h2r\Source\Repos\ConfusionQuiz\RealSenseTest\obj\Debug\RealSenseTest.exe
+C:\Users\h2r\Source\Repos\ConfusionQuiz\RealSenseTest\obj\Debug\RealSenseTest.pdb
+C:\Users\h2r\Source\Repos\ConfusionQuiz\RealSenseTest\bin\Debug\libpxcclr.cs.dll
+C:\Users\h2r\Source\Repos\ConfusionQuiz\RealSenseTest\obj\Debug\RealSenseTest.csprojResolveAssemblyReference.cache
+C:\Users\h2r\Source\Repos\ConfusionQuiz\RealSenseTest\bin\Debug\Library\libpxcclr.cs.dll

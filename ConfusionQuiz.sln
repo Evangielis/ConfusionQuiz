@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfusionQuiz", "ConfusionQuiz\ConfusionQuiz.csproj", "{36DF9FC4-C204-4DD0-9615-E390B961D114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealSenseTest", "RealSenseTest\RealSenseTest.csproj", "{E712B626-483D-46AD-BA78-810BF0B0A773}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{36DF9FC4-C204-4DD0-9615-E390B961D114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36DF9FC4-C204-4DD0-9615-E390B961D114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36DF9FC4-C204-4DD0-9615-E390B961D114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E712B626-483D-46AD-BA78-810BF0B0A773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E712B626-483D-46AD-BA78-810BF0B0A773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E712B626-483D-46AD-BA78-810BF0B0A773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E712B626-483D-46AD-BA78-810BF0B0A773}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
